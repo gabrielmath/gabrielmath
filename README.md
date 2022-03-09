@@ -84,7 +84,7 @@ Entre em contato.
 
 - Linguagem: PHP;
 - Framework: [Laravel](https://laravel.com/);
-- Banco de dados MySQL, PostgreSQL (inclusive para multitenants) e Redis (iniciante);
+- Banco de dados MySQL, PostgreSQL (inclusive para multitenants) e Redis;
 
 ### 🎨 Front-end:
 
