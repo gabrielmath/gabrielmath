@@ -1,8 +1,8 @@
-# Olá, tudo bem?
+# Olá! Bora tomar um café? ☕
 
 ## Me chamo Gabriel!
 
-Sou Dev Back-end e me aventuro nos mais diversos projetos. 🤘
+Sou Dev com foco no Back-end (com conhecimento no Front-end também) e me aventuro nos mais diversos projetos. 🤘
 
 Entre em contato.
 
@@ -91,7 +91,7 @@ Entre em contato.
 - HTML, CSS, JS;
 - Pré-processadores: LESS e SASS (SCSS);
 - Frameworks CSS: Bootstrap e Tailwindcss;
-- Libs JS: React (básico), Vuejs (básico, porém sou melhor do que em React);
+- Libs JS: React e Vuejs (este último mais usado nos projetos em que trabalhei);
 
 ### 📊 Infra/DevOps:
 
@@ -249,12 +249,16 @@ Segue abaixo lista de sites de cursos que sou assinante ou que comprei em algum 
 - [Upinside](https://www.upinside.com.br/) - Faço parte da turma do curso **Agência de Valor**
 
 ---
-Antes que você me julgue de acordo com as estatísticas abaixo, em minha defesa digo que a maioria dos projeto que
-trabalhei estão privados e em repositórios no Bitbucket e Gitlab.
 
-Duvida? **Então vamos tomar um café e falar de negócios que eu te mostro** 😎
+### ⚡ OBSERVAÇÕES:
+Os gráficos abaixo não refletem os projetos citados acima e a quantidade real de projetos realizados, 
+pois a grande maioria dos quais participei estão em outros serviços de versionamento de código (Gitlab e Bitbucket) em
+repositórios privados, devido as cláusulas de _NDA ("Non-Disclosure Agreement" - confidencialidade com o cliente)_, os quais não permite que eu apresente o código.
 
-(_Volte no início da página e me chama no [linkedin](https://www.linkedin.com/in/gabriel-matheus-silva-9a19a086/)_) 😉
+
+Se interessou? **Então vamos tomar um café e falar de negócios** 😎
+
+Me chama no [Linkedin](https://www.linkedin.com/in/gabriel-matheus-silva-9a19a086/) 😉
 
 ---
 <div>
