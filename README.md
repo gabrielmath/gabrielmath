@@ -197,6 +197,12 @@ Segue abaixo alguns projetos nos quais trabalhei - do mais recente ao mais antig
 
 Repositórios de cursos e entrevistas feitos por mim ao longo do tempo
 
+<a href="https://github.com/gabrielmath/address-list">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmath&repo=address-list&theme=tokyonight" />
+</a>
+<a href="https://github.com/gabrielmath/ecommerce_tallstack">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmath&repo=ecommerce_tallstack&theme=tokyonight" />
+</a>
 <a href="https://github.com/gabrielmath/teste_menu_infinito">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmath&repo=teste_menu_infinito&theme=tokyonight" />
 </a>
@@ -228,7 +234,7 @@ Listagem de sites que desenvolvi enquanto trabalhava em agência de publicidade 
 **Aqui varia entre PHP puro, Wordpress (com [ElementorPRO](https://elementor.com/))
 , [Codeigniter](https://codeigniter.com/) e Laravel**
 
-- [Instituto Davantel](https://institutodavantel.com.br) - _Em breve_
+- [Instituto Davantel](https://institutodavantel.com.br)
 - [Alphamaster Colchões](https://alphamastercolchoes.com.br/)
 - [Fosferpet](https://www.fosferpet.com.br/)
 - [Grupo Athia](http://grupoathia.com/index.php)
